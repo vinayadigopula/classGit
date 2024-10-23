@@ -1,3 +1,4 @@
 git class started
 changes in file
 file of testfile
+observe the conflict
