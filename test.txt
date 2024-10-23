@@ -1,4 +1,4 @@
-git class started
-changes in file
+git class start
+changes in conflict
 file of testfile
 observe the conflict
