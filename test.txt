@@ -2,3 +2,4 @@ git class start
 changes in conflict
 file of testfile
 observe the conflict
+confict
